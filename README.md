@@ -47,8 +47,6 @@ automation.
 ## 💬 Example
 
 ### Input
-
-```text
 Please send Rs. 15,500 to Priya Sharma.
 Account 445566778899.
 IFSC HDFC0001234.
