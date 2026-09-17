@@ -1,0 +1,4158 @@
+[
+  {
+    "text": "Order number 56789 is confirmed. Transfer Rs. 8500 to Sanjay Kumar.",
+    "entities": [
+      {
+        "start": 46,
+        "end": 50,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 54,
+        "end": 66,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Send 5000 to Arun Kumar. Account 123456789012.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Amount 9200, phone 9876543210, OTP 123456, account 221133445566.",
+    "entities": [
+      {
+        "start": 7,
+        "end": 11,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 51,
+        "end": 63,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer ₹12000 to Mohammed Salim. Account number: 667788990011.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 33,
+        "label": "NAME"
+      },
+      {
+        "start": 51,
+        "end": 63,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 10,
+        "end": 15,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer ₹8000 to Sanjay Kumar. IFSC is SBIN0012345.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 51,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 15500 rupees to Mohammed Salim, A/C 890123456789, IFSC HDFC0078901.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 25,
+        "end": 39,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 64,
+        "end": 75,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Pay ₹4500 to Kiran Jose.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Please credit the account of Vivek Reddy with Rs. 8800.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 40,
+        "label": "NAME"
+      },
+      {
+        "start": 50,
+        "end": 54,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary Priyanka Sharma. Account number 667788990011. Amount is 12500.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 68,
+        "end": 73,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please call me at 9847012345.",
+    "entities": []
+  },
+  {
+    "text": "Account 456789012345. Beneficiary Anjali Thomas. Amount 11000 INR. IFSC SBIN0045678.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 20,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 34,
+        "end": 47,
+        "label": "NAME"
+      },
+      {
+        "start": 56,
+        "end": 61,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 72,
+        "end": 83,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Pay 16000 INR to Mohammed Salim. Mobile 9123456780.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Arun, 5000, 123456789012, SBIN0001234.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "NAME"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 12,
+        "end": 24,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Please send Rs 12000 to Rahul.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 15,
+        "end": 20,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Name: Arjun Kumar. Amount: 11000. Account: 445566778899.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 17,
+        "label": "NAME"
+      },
+      {
+        "start": 27,
+        "end": 32,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The verification OTP is 728194.",
+    "entities": []
+  },
+  {
+    "text": "Please transfer to Anoop Menon. A/C 778899001122. Amount ₹27500.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 58,
+        "end": 63,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay 18000 INR to Mohammed Salim.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Payment reference number is 728391.",
+    "entities": []
+  },
+  {
+    "text": "Transfer ₹9200 to Meera Nair. Contact 9847012345. Account 667788990011.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 58,
+        "end": 70,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "pls send 8500 INR to Suresh. Account no 777788889999",
+    "entities": [
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 21,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hey, please transfer ₹7500 to Rahul Sharma. His account number is 123456789012 and IFSC is SBIN0012345.",
+    "entities": [
+      {
+        "start": 30,
+        "end": 42,
+        "label": "NAME"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 91,
+        "end": 102,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Send amount 6300 to the beneficiary. A/C number 123443211234.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 48,
+        "end": 60,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "send 7.5k to Meera Joseph account 889900112233",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Amount is 5000. Account number is 111122223333. Send to Rahul Das.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 56,
+        "end": 65,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Recipient name is Neha Sharma. Amount is 7200 INR.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 41,
+        "end": 45,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "send 9000 to Anu. account 343434343434",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "NAME"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transaction ID 728391. Send 5000 to Arun Kumar.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 32,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 36,
+        "end": 46,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary Rahul Das. Account number 556677889900. Amount 9500.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 21,
+        "label": "NAME"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer Rs 18000 to Suresh.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 19,
+        "end": 24,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 12500 to Rahul Das. Reference 908765. Phone 9876501234. Account 123456789012.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 69,
+        "end": 81,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "The recipient is Mohammed Salim.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 31,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer ₹16000.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Your OTP is 654321.",
+    "entities": []
+  },
+  {
+    "text": "Pay ₹16,250 to Anjali Thomas. Mobile 9123456780.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send Rs. 25000 to Kumar.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 12000 to Anjali. Reference 789456. Phone 9876501234. Account 222233334444.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 20,
+        "label": "NAME"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send money to Arun Kumar, amount ₹6500.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 38,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 5000 rupees to Sanjay Kumar.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Amount is ₹5,000. Account number is 111122223333. Beneficiary Rahul Das.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 62,
+        "end": 71,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Account number 123456789012, phone 9876501234, reference 908765, amount 15000.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 72,
+        "end": 77,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Contact 9847012345 and transfer ₹7500 to Sneha Thomas.",
+    "entities": [
+      {
+        "start": 41,
+        "end": 53,
+        "label": "NAME"
+      },
+      {
+        "start": 33,
+        "end": 37,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Need to discuss something with you.",
+    "entities": []
+  },
+  {
+    "text": "Pay 6300 to Lakshmi Menon. Account 123443211234.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 12,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "send 7500 to Priya Nair account no 667788990011",
+    "entities": [
+      {
+        "start": 13,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Amount is 15000 and account number is 123456789012.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please pay 9200 to Anjali Thomas.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please send 18000 to Rahul Das.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹5,000 to Rahul.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 20,
+        "label": "NAME"
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Reference 908765 and phone 9876501234. Pay 6500 to Meera. Account 555566667777.",
+    "entities": [
+      {
+        "start": 43,
+        "end": 47,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 51,
+        "end": 56,
+        "label": "NAME"
+      },
+      {
+        "start": 66,
+        "end": 78,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary: Kiran Joseph. Amount: Rs. 5500.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay Rs. 6,300 to Lakshmi Menon. A/C 123443211234.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 13,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 17,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Recipient name is Rahul.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Account 123456789012, amount 15000, OTP 482913, phone 9876543210.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 20,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 16,250 to Neha Sharma. OTP 654321, phone 9123456780, A/C 787878121212.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 11,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "sugunan, ₹4000, 898989898989, HDFC0001212.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "NAME"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Send 6000 to Ramesh, IFSC HDFC0002222, account 999900001111.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 19,
+        "label": "NAME"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 26,
+        "end": 37,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please confirm once you receive it.",
+    "entities": []
+  },
+  {
+    "text": "Please check your messages.",
+    "entities": []
+  },
+  {
+    "text": "Pay 18000 INR to Farhan Ali. Mobile 9123456780. A/C number 778899001122.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "A/C 778899001122. Phone 9895012345.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Amount ₹7500, Name Priya Nair, IFSC HDFC0023456, Account 234567890123.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 12,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please pay 8500 to Anjali Thomas. Account no 998877665544.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please pay Sanjay Kumar Rs 9800. His IFSC code is SBIN0067890.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 27,
+        "end": 31,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 50,
+        "end": 61,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Hi, send 12000 INR to Priya Nair. A/C: 234567890123, IFSC: HDFC0023456.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 39,
+        "end": 51,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "bro transfer 7500 to Rahul Das. Account number 111122223333. phone 9876543210",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 21,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Pay Rs 8500 to Anjali Thomas. Reference 908765. A/C 445566778899. Phone 9123456780.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 52,
+        "end": 64,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 7,
+        "end": 11,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer ₹12,500.50 to Meera.",
+    "entities": [
+      {
+        "start": 23,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 10,
+        "end": 19,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Need to pay 12000 INR to Anjali.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "The person receiving the money is Sneha Sharma.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 46,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 35000 to Rahul Kumar. Reference REF98231. Account 345678901234.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary Anu, amount ₹4000, account 898989898989, IFSC HDFC0001212.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 15,
+        "label": "NAME"
+      },
+      {
+        "start": 39,
+        "end": 51,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 58,
+        "end": 69,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Priya needs 10000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Reference 12345, account 999988887777, amount 12000 INR to Anjali.",
+    "entities": [
+      {
+        "start": 59,
+        "end": 65,
+        "label": "NAME"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 46,
+        "end": 51,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer 18000 rupees to Meera.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 14000 to Deepa Krishnan. OTP 482913. Account 221133445566.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 32000 INR to Farhan Ali.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Account 998877665544. Verification code 728194.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 20,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "9999 needs to be sent to Rajesh Kumar. Account 909090123456.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 4,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 47,
+        "end": 59,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Recipient name is Deepa Krishnan. Amount is 9200. Account number is 221133445566.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 48,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 68,
+        "end": 80,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send Rs. 7200 to Anjali Thomas. Call 9895012345.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Name: Rahul Sharma, Account: 123456789012, IFSC: SBIN0012345, Amount: ₹5000.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 18,
+        "label": "NAME"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 49,
+        "end": 60,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 71,
+        "end": 75,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹7800 to Lakshmi Menon. A/C 998877665544. Mobile 9895012345.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer 8500 to Rahul Das. Account 112233445566.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "NAME"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹11000 to Priya Nair. OTP 482913. Phone 9876543210. A/C 998877665544.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 6,
+        "end": 11,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Payment amount is 18750.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "OTP is 482913 and transaction ID is TXN456782. Please call 9847012345.",
+    "entities": []
+  },
+  {
+    "text": "Send 18500 to Suresh Babu. Phone 9123456780. A/C 998877665544.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer 8500 to Rahul Das. Account 112233445566.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 24,
+        "end": 33,
+        "label": "NAME"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send Rs. 6500 to Anjali Thomas. Phone 9895012345. Bank account 445566778899.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 63,
+        "end": 75,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Priya account no 121212121212, IFSC ICIC0003333, please transfer Rs. 9500.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 36,
+        "end": 47,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 69,
+        "end": 73,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹9200 to Anoop Menon.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary is Arun Kumar. Transfer 18000 INR. Account: 567890123456. IFSC HDFC0056789.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 41,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 75,
+        "end": 86,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Payment amount is 18500 INR. Account number: 556677889900.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 23,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "OTP is 456789. Please send ₹9000 to Anjali Thomas.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 49,
+        "label": "NAME"
+      },
+      {
+        "start": 28,
+        "end": 32,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 25000 to Nikhil Raj. A/C 334455667788.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 30,
+        "end": 42,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "bro amount is 9500 and account number is 556677889900 for Rahul Das",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 58,
+        "end": 67,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Please pay 6400 to Vishnu Kumar.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Account 888899990000 belongs to Divya. Transfer ₹15000. IFSC SBIN0001111.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 8,
+        "end": 20,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 61,
+        "end": 72,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 49,
+        "end": 54,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer 7500 rupees to Suresh.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Account number 123456789012. Contact number 9876543210.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Verification code 728194 is required.",
+    "entities": []
+  },
+  {
+    "text": "Please enter OTP 482913.",
+    "entities": []
+  },
+  {
+    "text": "My phone number is 9876543210 and reference number is 908765.",
+    "entities": []
+  },
+  {
+    "text": "send 12500 to Mohammed Irfan acc no 123456789012",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "OTP: 391827. Please do not share it.",
+    "entities": []
+  },
+  {
+    "text": "Rajesh Kumar. Send 9999 to this account 909090123456.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 12,
+        "label": "NAME"
+      },
+      {
+        "start": 19,
+        "end": 23,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transaction reference: 654782.",
+    "entities": []
+  },
+  {
+    "text": "Send 7200 to Suresh Babu. Account number 998877665544.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary is Raj Kumar. Please transfer ₹9000.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 43,
+        "end": 47,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Rahul Das, 9500, 556677889900, HDFC0005678.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "NAME"
+      },
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 17,
+        "end": 29,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 31,
+        "end": 42,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Suresh is sending 5000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "NAME"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Phone 9876501234.",
+    "entities": []
+  },
+  {
+    "text": "Could you please send 12500 INR to Mohammed Salim?",
+    "entities": [
+      {
+        "start": 35,
+        "end": 49,
+        "label": "NAME"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Anjali requires 12000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 6,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transaction ID is TXN456782.",
+    "entities": []
+  },
+  {
+    "text": "Beneficiary: Vijay, A/C: 666677778888, Code: HDFC0003456, Amount: ₹12000",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "NAME"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 45,
+        "end": 56,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 67,
+        "end": 72,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Recipient Priyanka Sharma. Amount 12500. OTP 482913. Account 667788990011.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 39,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 61,
+        "end": 73,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Payment reference number is 728391.",
+    "entities": []
+  },
+  {
+    "text": "Use OTP 519263 to continue.",
+    "entities": []
+  },
+  {
+    "text": "OTP is 482913.",
+    "entities": []
+  },
+  {
+    "text": "Send Rs 4500 to Neha account 444455556666 IFSC SBIN0007890",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "NAME"
+      },
+      {
+        "start": 29,
+        "end": 41,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "I want to send ₹4200 to Priya Nair. Her bank account is 678901234567.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 20,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 56,
+        "end": 68,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send 25k to Rahul Kumar. Phone 9876543210.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary Anjali Thomas, account 456789012345, amount 9500 INR.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 56,
+        "end": 60,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 7200 to Suresh Babu. Account number 998877665544.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The recipient is Sneha Thomas. Send 8500 to account 445566778811.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 40,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 52,
+        "end": 64,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "IFSC ICIC0034567, Account 345678901234, Name Sanjay Kumar, Amount Rs. 9000.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 16,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "NAME"
+      },
+      {
+        "start": 70,
+        "end": 74,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please pay 4500 to Kiran Jose. Account no 667700889911.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Account holder is Neha.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "I need to send ₹8500 to Mohammed Salim.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 38,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 20,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 7500 inr to Priya.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 25000 rs to Anjali Thomas.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 18750 to Fathima. Bank account 889900112233.",
+    "entities": [
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer to Priya Nair. Bank code HDFC0067890. Amount 8000.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 22,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 45,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 54,
+        "end": 58,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "12500 should be sent to Meera Nair. Account 987654321098.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Priya, ₹7500, 445566778899, ICIC0004321.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 26,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 28,
+        "end": 39,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Payment reference number is 728391.",
+    "entities": []
+  },
+  {
+    "text": "Send ₹7250 to Arjun Kumar. Account 334455667788. OTP 519263. Contact 9876501234.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "The verification code is 654321. Do not share it with anyone.",
+    "entities": []
+  },
+  {
+    "text": "Please send money to Arun Kumar, A/C No: 567890123456.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Customer name is Suresh.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 23,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Pay 8000 to Kumar. Phone 9876543210. OTP 482913. Account 111122223333.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 8,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "NAME"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send money to Priya Nair. Account number is 123456789012.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "pls send 8500 INR to Suresh acc no 777788889999 ifsc ICIC0006789",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transaction ID 456789123. Please pay 8000 to Kumar.",
+    "entities": [
+      {
+        "start": 37,
+        "end": 41,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Transfer amount: 14500. Bank account: 998877665544.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Pay 15500 to Neha. Phone 9123456780. Account 787878121212.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send 27500 INR to Deepak. Account 676767676767. Code SBIN0001010.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "pls trf ₹7500 to Anil acc 987654321098 ifsc HDFC0001234",
+    "entities": [
+      {
+        "start": 17,
+        "end": 21,
+        "label": "NAME"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹5000 to Rahul Kumar. Account number: 123456789012.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer ₹5600 to Meera Joseph.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay Sanjay Kumar. Acc no 345678901234. Send Rs. 8500.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "NAME"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 48,
+        "end": 52,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "OTP is 391827. Please do not share it.",
+    "entities": []
+  },
+  {
+    "text": "Send 5000 to Arun Kumar. Account 123456789012.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer ₹3200 to Arun. A/c 333344445555. IFSC ICIC0004567.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 22,
+        "label": "NAME"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary is Anjali Thomas. Account 234567890123.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Account number 444455556666. Amount is 12500. Beneficiary Priya Nair.",
+    "entities": [
+      {
+        "start": 15,
+        "end": 27,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 58,
+        "end": 68,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Send 17500 INR to Fathima. A/C 889900112233. Bank code SBIN0001234.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 18,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Payment amount is Rs. 25000.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 27,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Can you transfer ₹15000 to Vivek Reddy?",
+    "entities": [
+      {
+        "start": 27,
+        "end": 38,
+        "label": "NAME"
+      },
+      {
+        "start": 18,
+        "end": 23,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please send 12000 rupees to Anjali.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer to beneficiary Meera Thomas.",
+    "entities": [
+      {
+        "start": 31,
+        "end": 43,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹5000 to Arun Kumar. Account 123456789012.",
+    "entities": [
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 14,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 9500 to Arjun Kumar. Phone number: 9876501234.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "I am sending 9900 INR to Rajesh Kumar.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 17,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 25,
+        "end": 37,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Need to pay 9800 to Kiran Jose. Account 667700889911. IFSC ICIC0009999.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 20,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 59,
+        "end": 70,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Transaction ID is 456782.",
+    "entities": []
+  },
+  {
+    "text": "Transfer ₹8500 to Priya Nair. Contact number 9847012345.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 25000 rs to Anjali Thomas.",
+    "entities": [
+      {
+        "start": 21,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 8500 to Mohammed Irfan. Account number 222233334444.",
+    "entities": [
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "please pay 14500 to Deepa Krishnan account number 998877665544",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 20,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 50,
+        "end": 62,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send 12500 to Rahul Das. Phone 9876543210.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Rahul Das is the beneficiary. Send 9500. Account 556677889900.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 9,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 39,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please make a payment of ₹7500 to Anjali Thomas.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 47,
+        "label": "NAME"
+      },
+      {
+        "start": 26,
+        "end": 30,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Hi, please send ₹15000 to Mohammed Irfan. His bank account is 121212343434 and IFSC is ICIC0009876.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 26,
+        "end": 40,
+        "label": "NAME"
+      },
+      {
+        "start": 62,
+        "end": 74,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 87,
+        "end": 98,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Kumar wants to transfer ₹7000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 25,
+        "end": 29,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Ref: 839201.",
+    "entities": []
+  },
+  {
+    "text": "A/C 445566778899. OTP 482913.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 16,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "The beneficiary name is Priya Nair and amount is ₹12000.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 50,
+        "end": 55,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay 15500 to Neha. Phone 9123456780. Account 787878121212.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 17,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Kiran needs ₹16000. A/c 454545454545. IFSC ICIC0009999.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 24,
+        "end": 36,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 43,
+        "end": 54,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 13,
+        "end": 18,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Meera should receive ₹8000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "NAME"
+      },
+      {
+        "start": 22,
+        "end": 26,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer ₹5000 to Sanjay Kumar.",
+    "entities": [
+      {
+        "start": 25,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 17,
+        "end": 21,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "sugunan, ₹4000, 898989898989, HDFC0001212.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "NAME"
+      },
+      {
+        "start": 16,
+        "end": 28,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 30,
+        "end": 41,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 25k to Kumar.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 8,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 32000 INR to Farhan Ali. Account number 987654321098.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please pay ₹13500 to Rohit. Account: 787878787878 IFSC: ICIC0006666",
+    "entities": [
+      {
+        "start": 21,
+        "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 56,
+        "end": 67,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Rahul Kumar, IFSC SBIN0054321, amount ₹5000.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 11,
+        "label": "NAME"
+      },
+      {
+        "start": 18,
+        "end": 29,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 39,
+        "end": 43,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Call me at 9876543210 and transfer ₹5000 to Rahul Kumar.",
+    "entities": [
+      {
+        "start": 36,
+        "end": 40,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 44,
+        "end": 55,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Could you send some money to Rahul Sharma? Please transfer 6500 INR to his account 567890123456.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 41,
+        "label": "NAME"
+      },
+      {
+        "start": 59,
+        "end": 63,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 83,
+        "end": 95,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "pls send 8500 INR to Suresh acc no 777788889999 phone 9876543210",
+    "entities": [
+      {
+        "start": 21,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer 18000 rupees to Meera using account 222233334444 and IFSC HDFC0005678.",
+    "entities": [
+      {
+        "start": 32,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 52,
+        "end": 64,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 74,
+        "end": 85,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 16,
+        "end": 21,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please call me at 9876543210.",
+    "entities": []
+  },
+  {
+    "text": "Phone number 9123456789. Transfer 12000 INR to Arun Kumar.",
+    "entities": [
+      {
+        "start": 34,
+        "end": 39,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 47,
+        "end": 57,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Pay 15000 to Rahul Menon.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 24,
+        "label": "NAME"
+      },
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 14000 to Rajesh Kumar. Account 987654321098. Phone 9123456780.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 40,
+        "end": 52,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "The amount is 7500. Bank account is 987654321098.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 18,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer amount: 16000.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Hey bro, transfer Rs 4500 to Sanjay Kumar.",
+    "entities": [
+      {
+        "start": 29,
+        "end": 41,
+        "label": "NAME"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay ₹8500 to Deepa Krishnan. Reference TXN782341. Contact 9123456780. A/C 334455667788.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 74,
+        "end": 86,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Can you send the payment to Anjali Thomas? Her account number is 789012345678.",
+    "entities": [
+      {
+        "start": 28,
+        "end": 41,
+        "label": "NAME"
+      },
+      {
+        "start": 65,
+        "end": 77,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Transfer amount 25k. Bank account 444455556666. Send to Nikhil Raj.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 19,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 34,
+        "end": 46,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 56,
+        "end": 66,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Send Rs. 5500 to Neha Sharma.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 28,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send 11000 INR to Kiran Raj.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 5,
+        "end": 10,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 14500 INR to Kiran Jose. OTP 654321. Contact 9847012345. Account 667700889911.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 32,
+        "label": "NAME"
+      },
+      {
+        "start": 74,
+        "end": 86,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Contact number: 9123456780.",
+    "entities": []
+  },
+  {
+    "text": "I will send the details tomorrow.",
+    "entities": []
+  },
+  {
+    "text": "Amount Rs. 12,500. Account 333344445555. Beneficiary Suresh Babu.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 17,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 27,
+        "end": 39,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 53,
+        "end": 64,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Transfer 18000 INR to Sneha Sharma.",
+    "entities": [
+      {
+        "start": 22,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 14,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary name is Arjun Kumar.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 31,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Can you send ₹3200 to Lakshmi Menon please?",
+    "entities": [
+      {
+        "start": 22,
+        "end": 35,
+        "label": "NAME"
+      },
+      {
+        "start": 14,
+        "end": 18,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please send 6400 INR to Kiran Jose. A/C no 778899001122.",
+    "entities": [
+      {
+        "start": 24,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 43,
+        "end": 55,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 12,
+        "end": 16,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Recipient name is Priya Sharma.",
+    "entities": [
+      {
+        "start": 18,
+        "end": 30,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Please make a payment of Rs. 15000 to Mohammed Salim. Account no 345678901234 and bank code ICIC0034567.",
+    "entities": [
+      {
+        "start": 38,
+        "end": 52,
+        "label": "NAME"
+      },
+      {
+        "start": 29,
+        "end": 34,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 65,
+        "end": 77,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 92,
+        "end": 103,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Need to pay 16000 to Mohammed Irfan. Account 121212343434.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 17,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 21,
+        "end": 35,
+        "label": "NAME"
+      },
+      {
+        "start": 45,
+        "end": 57,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Reference number 908765. Please transfer 9500 to Rahul Das.",
+    "entities": [
+      {
+        "start": 41,
+        "end": 45,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 49,
+        "end": 58,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Name: Rahul, Account: 123456789012, IFSC: SBIN0001234, Amount: ₹5000",
+    "entities": [
+      {
+        "start": 6,
+        "end": 11,
+        "label": "NAME"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 42,
+        "end": 53,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 64,
+        "end": 68,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Use OTP 519263 to continue.",
+    "entities": []
+  },
+  {
+    "text": "Amount Rs 7500. Account number 222233334444. Recipient Anjali Menon.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 14,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 31,
+        "end": 43,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 55,
+        "end": 67,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Beneficiary name is Deepa Krishnan. Amount is 9200. Account number is 221133445566.",
+    "entities": [
+      {
+        "start": 20,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 46,
+        "end": 50,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 70,
+        "end": 82,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hey bro, are you available?",
+    "entities": []
+  },
+  {
+    "text": "Payment is 20.5k INR. A/C 555566667777. Recipient Fathima Rahman.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 16,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 50,
+        "end": 64,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Reference number 908765 and phone 9876501234.",
+    "entities": []
+  },
+  {
+    "text": "You can reach me on 9895012345.",
+    "entities": []
+  },
+  {
+    "text": "Pay ₹5600 to Meera Joseph. A/C: 889900112233.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 25,
+        "label": "NAME"
+      },
+      {
+        "start": 32,
+        "end": 44,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 9,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Can you transfer ₹6250 to Anjali Thomas? Her A/C number is 456789012345 and IFSC is SBIN0045678.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 39,
+        "label": "NAME"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 59,
+        "end": 71,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 84,
+        "end": 95,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Pay Rs. 9500 to Priya Nair. Bank account 445566778899.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 8,
+        "end": 12,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send amount 7500 INR.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 16,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Transfer to Suresh Babu. Bank account 998877665544. Payment amount is 18750.",
+    "entities": [
+      {
+        "start": 12,
+        "end": 23,
+        "label": "NAME"
+      },
+      {
+        "start": 38,
+        "end": 50,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 70,
+        "end": 75,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Account holder: Fathima Rahman. Amount 20500. Account no 889900112233.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 39,
+        "end": 44,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Please send Rs 7000 to Lakshmi Menon.",
+    "entities": [
+      {
+        "start": 23,
+        "end": 36,
+        "label": "NAME"
+      },
+      {
+        "start": 15,
+        "end": 19,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay 8500 INR to Kiran Jose. Account 667700889911. IFSC ICIC0007890. Reference 839201.",
+    "entities": [
+      {
+        "start": 16,
+        "end": 26,
+        "label": "NAME"
+      },
+      {
+        "start": 36,
+        "end": 48,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 55,
+        "end": 66,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 4,
+        "end": 8,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Pay 14500 to Deepa Krishnan. A/C 333344445555.",
+    "entities": [
+      {
+        "start": 4,
+        "end": 9,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 13,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 33,
+        "end": 45,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "IFSC ICIC0001234, account 111122223333, send 12500 to Priya",
+    "entities": [
+      {
+        "start": 54,
+        "end": 59,
+        "label": "NAME"
+      },
+      {
+        "start": 26,
+        "end": 38,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 5,
+        "end": 16,
+        "label": "IFSC_CODE"
+      },
+      {
+        "start": 45,
+        "end": 50,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Account 787878121212, phone 9123456780, OTP 654321, amount 16250, Neha Thomas.",
+    "entities": [
+      {
+        "start": 8,
+        "end": 20,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 59,
+        "end": 64,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 66,
+        "end": 77,
+        "label": "NAME"
+      }
+    ]
+  },
+  {
+    "text": "Bro send 5000 to Rahul.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 22,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Send ₹9000 to Anjali Thomas, IFSC is SBIN0089012.",
+    "entities": [
+      {
+        "start": 14,
+        "end": 27,
+        "label": "NAME"
+      },
+      {
+        "start": 6,
+        "end": 10,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 37,
+        "end": 48,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Call me on 9123456780 regarding the transaction.",
+    "entities": []
+  },
+  {
+    "text": "Transaction ID TXN456782.",
+    "entities": []
+  },
+  {
+    "text": "Priyanka Sharma needs 16000. Her bank account is 777788889999.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 15,
+        "label": "NAME"
+      },
+      {
+        "start": 22,
+        "end": 27,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 49,
+        "end": 61,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Hey, I need to pay Arun Kumar ₹3000. Bank code ICIC0089012.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 31,
+        "end": 35,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 47,
+        "end": 58,
+        "label": "IFSC_CODE"
+      }
+    ]
+  },
+  {
+    "text": "Security code 563829. Do not share this code.",
+    "entities": []
+  },
+  {
+    "text": "Please pay 4500 to Kiran Jose. Account no 667700889911.",
+    "entities": [
+      {
+        "start": 11,
+        "end": 15,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 19,
+        "end": 29,
+        "label": "NAME"
+      },
+      {
+        "start": 42,
+        "end": 54,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Send Rs. 8800 to Fathima Nazeer.",
+    "entities": [
+      {
+        "start": 17,
+        "end": 31,
+        "label": "NAME"
+      },
+      {
+        "start": 9,
+        "end": 13,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "12500 should be sent to Meera Nair. Account 987654321098.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 5,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 24,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Can you send 11000 to Priya Sharma? Account 445566778899.",
+    "entities": [
+      {
+        "start": 13,
+        "end": 18,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 22,
+        "end": 34,
+        "label": "NAME"
+      },
+      {
+        "start": 44,
+        "end": 56,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Amount is 11000. Phone 9895012345. Account no 345678901234. OTP 777888.",
+    "entities": [
+      {
+        "start": 10,
+        "end": 15,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 46,
+        "end": 58,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Fathima. Please send 5000 to her account 123456789012.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 7,
+        "label": "NAME"
+      },
+      {
+        "start": 21,
+        "end": 25,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 41,
+        "end": 53,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "Use OTP 519263 to continue.",
+    "entities": []
+  },
+  {
+    "text": "Hey, please send ₹6000 to Rahul Kumar.",
+    "entities": [
+      {
+        "start": 26,
+        "end": 37,
+        "label": "NAME"
+      },
+      {
+        "start": 18,
+        "end": 22,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Meera Nair needs 12500. Bank account 987654321098.",
+    "entities": [
+      {
+        "start": 0,
+        "end": 10,
+        "label": "NAME"
+      },
+      {
+        "start": 17,
+        "end": 22,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 37,
+        "end": 49,
+        "label": "ACCOUNT_NUMBER"
+      }
+    ]
+  },
+  {
+    "text": "pls transfer 12k to Farhan Ali a/c 778811223344",
+    "entities": [
+      {
+        "start": 20,
+        "end": 30,
+        "label": "NAME"
+      },
+      {
+        "start": 35,
+        "end": 47,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 13,
+        "end": 16,
+        "label": "AMOUNT"
+      }
+    ]
+  },
+  {
+    "text": "Please transfer Rs 22000 to Anjali Menon. Account number 667788990011. IFSC HDFC0004321.",
+    "entities": [
+      {
+        "start": 19,
+        "end": 24,
+        "label": "AMOUNT"
+      },
+      {
+        "start": 28,
+        "end": 40,
+        "label": "NAME"
+      },
+      {
+        "start": 57,
+        "end": 69,
+        "label": "ACCOUNT_NUMBER"
+      },
+      {
+        "start": 76,
+        "end": 87,
+        "label": "IFSC_CODE"
+      }
+    ]
+  }
+]

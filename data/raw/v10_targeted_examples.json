@@ -1,0 +1,1202 @@
+[
+  {
+    "text": "Transaction ID 456789123. Please pay 8000 to Kumar.",
+    "entities": [
+      [
+        37,
+        41,
+        "AMOUNT"
+      ],
+      [
+        45,
+        50,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Transaction ID 728391. Send 5000 to Arun Kumar.",
+    "entities": [
+      [
+        28,
+        32,
+        "AMOUNT"
+      ],
+      [
+        36,
+        46,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Transaction number 123456789. Transfer 7500 to Meera.",
+    "entities": [
+      [
+        39,
+        43,
+        "AMOUNT"
+      ],
+      [
+        47,
+        52,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Reference number 789456 was generated. Send 7000 to Priya.",
+    "entities": [
+      [
+        44,
+        48,
+        "AMOUNT"
+      ],
+      [
+        52,
+        57,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Reference number 908765. Please transfer 9500 to Rahul Das.",
+    "entities": [
+      [
+        41,
+        45,
+        "AMOUNT"
+      ],
+      [
+        49,
+        58,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Payment reference number is 728391.",
+    "entities": []
+  },
+  {
+    "text": "Reference number 789456.",
+    "entities": []
+  },
+  {
+    "text": "Transaction ID is 456782.",
+    "entities": []
+  },
+  {
+    "text": "Transaction ID TXN456782.",
+    "entities": []
+  },
+  {
+    "text": "OTP: 391827. Please do not share it.",
+    "entities": []
+  },
+  {
+    "text": "OTP is 391827. Please do not share it.",
+    "entities": []
+  },
+  {
+    "text": "Use OTP 519263 to continue.",
+    "entities": []
+  },
+  {
+    "text": "Please enter OTP 482913.",
+    "entities": []
+  },
+  {
+    "text": "Verification code 728194 is required.",
+    "entities": []
+  },
+  {
+    "text": "Security code 563829. Do not share this code.",
+    "entities": []
+  },
+  {
+    "text": "Payment amount is 18750.",
+    "entities": [
+      [
+        18,
+        23,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "The payment amount is 12500.",
+    "entities": [
+      [
+        22,
+        27,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Amount to transfer is 9500.",
+    "entities": [
+      [
+        22,
+        26,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Transfer amount: 16000.",
+    "entities": [
+      [
+        17,
+        22,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Please send an amount of 8500.",
+    "entities": [
+      [
+        25,
+        29,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "The amount is Rs 18750.",
+    "entities": [
+      [
+        17,
+        22,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Payment amount is Rs. 25000.",
+    "entities": [
+      [
+        22,
+        27,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Send amount 7500 INR.",
+    "entities": [
+      [
+        12,
+        16,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Please transfer ₹16000.",
+    "entities": [
+      [
+        17,
+        22,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Pay ₹4500 to Kiran Jose.",
+    "entities": [
+      [
+        5,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        23,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Transfer to Suresh Babu. Bank account 998877665544. Payment amount is 18750.",
+    "entities": [
+      [
+        12,
+        23,
+        "NAME"
+      ],
+      [
+        38,
+        50,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        70,
+        75,
+        "AMOUNT"
+      ]
+    ]
+  },
+  {
+    "text": "Send 5000 to Arun Kumar. Account 123456789012.",
+    "entities": [
+      [
+        5,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        23,
+        "NAME"
+      ],
+      [
+        33,
+        45,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "12500 should be sent to Meera Nair. Account 987654321098.",
+    "entities": [
+      [
+        0,
+        5,
+        "AMOUNT"
+      ],
+      [
+        24,
+        34,
+        "NAME"
+      ],
+      [
+        44,
+        56,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Please transfer 8500 to Rahul Das. Account 112233445566.",
+    "entities": [
+      [
+        16,
+        20,
+        "AMOUNT"
+      ],
+      [
+        24,
+        33,
+        "NAME"
+      ],
+      [
+        43,
+        55,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "9999 needs to be sent to Rajesh Kumar. Account 909090123456.",
+    "entities": [
+      [
+        0,
+        4,
+        "AMOUNT"
+      ],
+      [
+        25,
+        37,
+        "NAME"
+      ],
+      [
+        47,
+        59,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Transfer 15000 to Anjali Menon. Account 667788990011.",
+    "entities": [
+      [
+        9,
+        14,
+        "AMOUNT"
+      ],
+      [
+        18,
+        30,
+        "NAME"
+      ],
+      [
+        40,
+        52,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Pay 6300 to Lakshmi Menon. Account 123443211234.",
+    "entities": [
+      [
+        4,
+        8,
+        "AMOUNT"
+      ],
+      [
+        12,
+        25,
+        "NAME"
+      ],
+      [
+        35,
+        47,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Send 7200 to Suresh Babu. Account number 998877665544.",
+    "entities": [
+      [
+        5,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        24,
+        "NAME"
+      ],
+      [
+        41,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Transfer 18750 to Fathima. Bank account 889900112233.",
+    "entities": [
+      [
+        9,
+        14,
+        "AMOUNT"
+      ],
+      [
+        18,
+        25,
+        "NAME"
+      ],
+      [
+        40,
+        52,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Please pay 4500 to Kiran Jose. Account no 667700889911.",
+    "entities": [
+      [
+        11,
+        15,
+        "AMOUNT"
+      ],
+      [
+        19,
+        29,
+        "NAME"
+      ],
+      [
+        42,
+        54,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "bro send 9500 to Rahul Das. Account 556677889900",
+    "entities": [
+      [
+        9,
+        13,
+        "AMOUNT"
+      ],
+      [
+        17,
+        26,
+        "NAME"
+      ],
+      [
+        36,
+        48,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "pls send 8500 INR to Suresh. Account no 777788889999",
+    "entities": [
+      [
+        9,
+        13,
+        "AMOUNT"
+      ],
+      [
+        21,
+        27,
+        "NAME"
+      ],
+      [
+        40,
+        52,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Can you send 11000 to Priya Sharma? Account 445566778899.",
+    "entities": [
+      [
+        13,
+        18,
+        "AMOUNT"
+      ],
+      [
+        22,
+        34,
+        "NAME"
+      ],
+      [
+        44,
+        56,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Need to pay 16000 to Mohammed Irfan. Account 121212343434.",
+    "entities": [
+      [
+        12,
+        17,
+        "AMOUNT"
+      ],
+      [
+        21,
+        35,
+        "NAME"
+      ],
+      [
+        45,
+        57,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "send 9000 to Anu. account 343434343434",
+    "entities": [
+      [
+        5,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        16,
+        "NAME"
+      ],
+      [
+        26,
+        38,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "pls transfer 12000 to Joseph Thomas, acc 454545454545",
+    "entities": [
+      [
+        13,
+        18,
+        "AMOUNT"
+      ],
+      [
+        22,
+        35,
+        "NAME"
+      ],
+      [
+        41,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Kiran needs ₹16000. A/c 454545454545. IFSC ICIC0009999.",
+    "entities": [
+      [
+        0,
+        5,
+        "NAME"
+      ],
+      [
+        13,
+        18,
+        "AMOUNT"
+      ],
+      [
+        24,
+        36,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        43,
+        54,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Fathima. Please send 5000 to her account 123456789012.",
+    "entities": [
+      [
+        0,
+        7,
+        "NAME"
+      ],
+      [
+        21,
+        25,
+        "AMOUNT"
+      ],
+      [
+        41,
+        53,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Rajesh Kumar. Send 9999 to this account 909090123456.",
+    "entities": [
+      [
+        0,
+        12,
+        "NAME"
+      ],
+      [
+        19,
+        23,
+        "AMOUNT"
+      ],
+      [
+        40,
+        52,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Priya Sharma, please receive 7500 in account 445566778899.",
+    "entities": [
+      [
+        0,
+        12,
+        "NAME"
+      ],
+      [
+        29,
+        33,
+        "AMOUNT"
+      ],
+      [
+        45,
+        57,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Rahul Das is the beneficiary. Send 9500. Account 556677889900.",
+    "entities": [
+      [
+        0,
+        9,
+        "NAME"
+      ],
+      [
+        35,
+        39,
+        "AMOUNT"
+      ],
+      [
+        49,
+        61,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Meera Nair needs 12500. Bank account 987654321098.",
+    "entities": [
+      [
+        0,
+        10,
+        "NAME"
+      ],
+      [
+        17,
+        22,
+        "AMOUNT"
+      ],
+      [
+        37,
+        49,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "sugunan, ₹4000, 898989898989, HDFC0001212.",
+    "entities": [
+      [
+        0,
+        7,
+        "NAME"
+      ],
+      [
+        10,
+        14,
+        "AMOUNT"
+      ],
+      [
+        16,
+        28,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        30,
+        41,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Arun, 5000, 123456789012, SBIN0001234.",
+    "entities": [
+      [
+        0,
+        4,
+        "NAME"
+      ],
+      [
+        6,
+        10,
+        "AMOUNT"
+      ],
+      [
+        12,
+        24,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        26,
+        37,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Priya, ₹7500, 445566778899, ICIC0004321.",
+    "entities": [
+      [
+        0,
+        5,
+        "NAME"
+      ],
+      [
+        8,
+        12,
+        "AMOUNT"
+      ],
+      [
+        14,
+        26,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        28,
+        39,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Rahul Das, 9500, 556677889900, HDFC0005678.",
+    "entities": [
+      [
+        0,
+        9,
+        "NAME"
+      ],
+      [
+        11,
+        15,
+        "AMOUNT"
+      ],
+      [
+        17,
+        29,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        31,
+        42,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Meera Nair, 12500, 987654321098, SBIN0009876.",
+    "entities": [
+      [
+        0,
+        10,
+        "NAME"
+      ],
+      [
+        12,
+        17,
+        "AMOUNT"
+      ],
+      [
+        19,
+        31,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        33,
+        44,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Send ₹5000 to Arun Kumar. Account 123456789012.",
+    "entities": [
+      [
+        6,
+        10,
+        "AMOUNT"
+      ],
+      [
+        14,
+        24,
+        "NAME"
+      ],
+      [
+        34,
+        46,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "₹9999 needs to be sent to Rajesh Kumar. Account 909090123456.",
+    "entities": [
+      [
+        1,
+        5,
+        "AMOUNT"
+      ],
+      [
+        26,
+        38,
+        "NAME"
+      ],
+      [
+        48,
+        60,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Please transfer ₹8500 to Rahul Das. Bank account 112233445566.",
+    "entities": [
+      [
+        17,
+        21,
+        "AMOUNT"
+      ],
+      [
+        25,
+        34,
+        "NAME"
+      ],
+      [
+        49,
+        61,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Pay ₹6300 to Lakshmi Menon. Account no 123443211234.",
+    "entities": [
+      [
+        5,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        26,
+        "NAME"
+      ],
+      [
+        39,
+        51,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Pay 15500 to Neha. Phone 9123456780. Account 787878121212.",
+    "entities": [
+      [
+        4,
+        9,
+        "AMOUNT"
+      ],
+      [
+        13,
+        17,
+        "NAME"
+      ],
+      [
+        45,
+        57,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Transfer 35000 to Rahul Kumar. Reference REF98231. Account 345678901234.",
+    "entities": [
+      [
+        9,
+        14,
+        "AMOUNT"
+      ],
+      [
+        18,
+        29,
+        "NAME"
+      ],
+      [
+        59,
+        71,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Send 14000 to Deepa Krishnan. OTP 482913. Account 221133445566.",
+    "entities": [
+      [
+        5,
+        10,
+        "AMOUNT"
+      ],
+      [
+        14,
+        28,
+        "NAME"
+      ],
+      [
+        50,
+        62,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Pay 8000 to Kumar. Phone 9876543210. OTP 482913. Account 111122223333.",
+    "entities": [
+      [
+        4,
+        8,
+        "AMOUNT"
+      ],
+      [
+        12,
+        17,
+        "NAME"
+      ],
+      [
+        57,
+        69,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Send 12000 to Anjali. Reference 789456. Phone 9876501234. Account 222233334444.",
+    "entities": [
+      [
+        5,
+        10,
+        "AMOUNT"
+      ],
+      [
+        14,
+        20,
+        "NAME"
+      ],
+      [
+        66,
+        78,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "IFSC HDFC0004321, amount Rs 12500, account 667788990011, beneficiary Priyanka Sharma.",
+    "entities": [
+      [
+        5,
+        16,
+        "IFSC_CODE"
+      ],
+      [
+        28,
+        33,
+        "AMOUNT"
+      ],
+      [
+        43,
+        55,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        69,
+        84,
+        "NAME"
+      ]
+    ]
+  },
+  {
+    "text": "Beneficiary name is Deepa Krishnan. Amount is 9200. Account number is 221133445566.",
+    "entities": [
+      [
+        20,
+        34,
+        "NAME"
+      ],
+      [
+        46,
+        50,
+        "AMOUNT"
+      ],
+      [
+        70,
+        82,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Name: Suresh Babu. Amount: 18750. Account: 998877665544. IFSC: SBIN0001234.",
+    "entities": [
+      [
+        6,
+        17,
+        "NAME"
+      ],
+      [
+        27,
+        32,
+        "AMOUNT"
+      ],
+      [
+        43,
+        55,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        63,
+        74,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Transaction 728391, OTP 391827, phone 9876543210. Send 8500 to Rahul. Account 123456789012.",
+    "entities": [
+      [
+        55,
+        59,
+        "AMOUNT"
+      ],
+      [
+        63,
+        68,
+        "NAME"
+      ],
+      [
+        78,
+        90,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Reference 908765 and phone 9876501234. Pay 6500 to Meera. Account 555566667777.",
+    "entities": [
+      [
+        43,
+        47,
+        "AMOUNT"
+      ],
+      [
+        51,
+        56,
+        "NAME"
+      ],
+      [
+        66,
+        78,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "OTP 123456. Transaction ID 789012. Send 11000 to Priya Sharma. Account 444455556666.",
+    "entities": [
+      [
+        40,
+        45,
+        "AMOUNT"
+      ],
+      [
+        49,
+        61,
+        "NAME"
+      ],
+      [
+        71,
+        83,
+        "ACCOUNT_NUMBER"
+      ]
+    ]
+  },
+  {
+    "text": "Hi, please send ₹15000 to Mohammed Irfan. His bank account is 121212343434 and IFSC is ICIC0009876.",
+    "entities": [
+      [
+        17,
+        22,
+        "AMOUNT"
+      ],
+      [
+        26,
+        40,
+        "NAME"
+      ],
+      [
+        62,
+        74,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        87,
+        98,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Please transfer Rs 22000 to Anjali Menon. Account number 667788990011. IFSC HDFC0004321.",
+    "entities": [
+      [
+        19,
+        24,
+        "AMOUNT"
+      ],
+      [
+        28,
+        40,
+        "NAME"
+      ],
+      [
+        57,
+        69,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        76,
+        87,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Send 17500 INR to Fathima. A/C 889900112233. Bank code SBIN0001234.",
+    "entities": [
+      [
+        5,
+        10,
+        "AMOUNT"
+      ],
+      [
+        18,
+        25,
+        "NAME"
+      ],
+      [
+        31,
+        43,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        55,
+        66,
+        "IFSC_CODE"
+      ]
+    ]
+  },
+  {
+    "text": "Need to pay 9800 to Kiran Jose. Account 667700889911. IFSC ICIC0009999.",
+    "entities": [
+      [
+        12,
+        16,
+        "AMOUNT"
+      ],
+      [
+        20,
+        30,
+        "NAME"
+      ],
+      [
+        40,
+        52,
+        "ACCOUNT_NUMBER"
+      ],
+      [
+        59,
+        70,
+        "IFSC_CODE"
+      ]
+    ]
+  }
+]
